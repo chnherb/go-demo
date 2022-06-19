@@ -3,6 +3,7 @@ module go-demo
 go 1.16
 
 require (
+	github.com/easierway/concurrent_map v1.0.0 // indirect
 	github.com/gopherjs/gopherjs v1.17.2 // indirect
 	github.com/jessevdk/go-flags v1.5.0 // indirect
 	github.com/julienschmidt/httprouter v1.3.0
